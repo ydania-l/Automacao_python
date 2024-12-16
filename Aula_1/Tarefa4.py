@@ -6,4 +6,4 @@ print("Quem é?")
 
 resposta = input("Inserir quem é?")
 
-print("Quem esta tocando é:" , resposta)
+print("Quem esta tocando é:" , resposta + "!")
