@@ -7,3 +7,4 @@ carros = ("BMW", "Tesla", "Toyota")
 numero_de_carros_na_familia = len(carros)
 
 print("O número de carros que a família possui são:", numero_de_carros_na_familia)
+
